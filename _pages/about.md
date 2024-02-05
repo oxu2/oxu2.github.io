@@ -29,3 +29,5 @@ Ruiyu Mao, **Ouyang Xu**, Yunhui Guo
 <br />
 [PDF](https://arxiv.org/abs/2401.04923)
 
+## Personal
+In my spare time, I love powerlifting🏋️, bouldering🧗, and playing the guitar🎸. I am also quite skilled at board games🐺.
