@@ -14,8 +14,6 @@ Prior to that, I earned an M.S. in Statistics from the University of Wisconsin-M
 
 My research interests lie in Machine Learning and Computer Vision. Specifically, I am working on Continual Learning and Prompt Learning.
 
-My Chinese name is: 徐鸥旸.
-
 ## Contact
 
 Email: [firstname].[lastname] [AT] utdallas.edu
