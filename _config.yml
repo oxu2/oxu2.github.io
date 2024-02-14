@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ouyang Xu"
+title                    : "Ouyang Xu (徐鸥旸)"
 title_separator          : "-"
-name                     : &name "Ouyang Xu (徐鸥旸)"
+name                     : &name "Ouyang Xu"
 description              : &description "Ph.D. candidate in CS at the University of Texas at Dallas"
 url                      : https://oxu2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
