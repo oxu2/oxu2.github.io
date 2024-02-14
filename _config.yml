@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ouyang Xu"
+title                    : "Ouyang Xu (徐鸥旸)"
 title_separator          : "-"
 name                     : &name "Ouyang Xu"
 description              : &description "Ph.D. candidate in CS at the University of Texas at Dallas"
