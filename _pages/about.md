@@ -12,7 +12,9 @@ I am currently a Ph.D. candidate in Computer Science at the University of Texas 
 
 Prior to that, I earned an M.S. in Statistics from the University of Wisconsin-Madison, following a B.S. in Mathematics from Southeast University. 
 
-My research interests lie in Machine Learning and Computer Vision. Specifically, I am working on Continual Learning and Prompt Learning.
+My research interests lie in Machine Learning and Computer Vision. Specifically, I am working on Generative AI, Vision Language Models, and Prompt Learning.
+
+My Chinese name is 徐鸥旸.
 
 ## Contact
 
