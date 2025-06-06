@@ -12,7 +12,7 @@ I am currently a Ph.D. candidate in Computer Science at the University of Texas 
 
 Prior to that, I earned an M.S. in Statistics from the University of Wisconsin–Madison, following a B.S. in Mathematics from Southeast University. 
 
-My research interests lie in Machine Learning and Computer Vision. Specifically, I work on Generative AI, Vision-Language Models, and Prompt Learning.  
+My research interests lie in Machine Learning and Computer Vision. Specifically, I focus on Generative AI, Vision–Language Models (LVLMs), and Active Learning.
 
 My Chinese name is 徐鸥旸. 
 
@@ -21,13 +21,15 @@ My Chinese name is 徐鸥旸.
 Email: [firstname].[lastname] [AT] utdallas.edu
 
 ## Publication
-**Inconsistency-Based Data-Centric Active Open-Set Annotation**
-<br />
-Ruiyu Mao, **Ouyang Xu**, Yunhui Guo
-<br />
-**AAAI 2024**
-<br />
+
+**Inconsistency-Based Data-Centric Active Open-Set Annotation**  
+Ruiyu Mao, **Ouyang Xu**, Yunhui Guo  
+**AAAI 2024**  
 [PDF](https://arxiv.org/abs/2401.04923)
+
+**SafeFix: Targeted Model Repair via Controlled Image Generation (Under Review)**  
+**Ouyang Xu**, Baoming Zhang, Ruiyu Mao, Yunhui Guo  
+Submitted to NeurIPS 2025
 
 ## Personal
 In my spare time, I love powerlifting🏋️, bouldering🧗, and playing the guitar🎸. I am also quite skilled at board games such as Werewolves🐺.
