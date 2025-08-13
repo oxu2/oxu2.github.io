@@ -57,6 +57,8 @@ function copyToClipboard(id) {
 }
 </script>
 
+---
+
 **SafeFix: Targeted Model Repair via Controlled Image Generation (Under Review)**  
 **Ouyang Xu**, Baoming Zhang, Ruiyu Mao, Yunhui Guo  
 Submitted to AAAI 2026  
