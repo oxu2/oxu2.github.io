@@ -30,8 +30,10 @@ Ruiyu Mao, **Ouyang Xu**, Yunhui Guo
 [![GitHub stars](https://img.shields.io/github/stars/RuiyuM/Active-OpenSet-NEAT?style=social)](https://github.com/RuiyuM/Active-OpenSet-NEAT)
 
 <details>
-  <summary>BibTeX</summary>
-  <pre><code>@misc{mao2024inconsistency,
+<summary>BibTeX</summary>
+<div style="position: relative;">
+<button onclick="copyToClipboard('mao2024inconsistency')" style="position: absolute; top: 10px; right: 10px; z-index: 1;">Copy</button>
+<pre><code id="mao2024inconsistency">@misc{mao2024inconsistency,
     title={Inconsistency-Based Data-Centric Active Open-Set Annotation},
     author={Ruiyu Mao and Ouyang Xu and Yunhui Guo},
     year={2024},
@@ -41,11 +43,19 @@ Ruiyu Mao, **Ouyang Xu**, Yunhui Guo
     url={https://arxiv.org/abs/2401.04923},
 }
 </code></pre>
+</div>
 </details>
 
-
-
-
+<script>
+function copyToClipboard(id) {
+  var text = document.getElementById(id).innerText;
+  navigator.clipboard.writeText(text).then(function() {
+    /* clipboard successfully set */
+  }, function() {
+    /* clipboard write failed */
+  });
+}
+</script>
 
 **SafeFix: Targeted Model Repair via Controlled Image Generation (Under Review)**  
 **Ouyang Xu**, Baoming Zhang, Ruiyu Mao, Yunhui Guo  
@@ -53,6 +63,23 @@ Submitted to AAAI 2026
 
 [![arXiv](https://img.shields.io/badge/arXiv-2508.08701-b31b1b.svg)](https://arxiv.org/abs/2508.08701)
 [![GitHub stars](https://img.shields.io/github/stars/oxu2/SafeFix?style=social)](https://github.com/oxu2/SafeFix)
+
+<details>
+<summary>BibTeX</summary>
+<div style="position: relative;">
+<button onclick="copyToClipboard('xu2025safefix')" style="position: absolute; top: 10px; right: 10px; z-index: 1;">Copy</button>
+<pre><code id="xu2025safefix">@misc{xu2025safefix,
+   title={SafeFix: Targeted Model Repair via Controlled Image Generation}, 
+   author={Ouyang Xu and Baoming Zhang and Ruiyu Mao and Yunhui Guo},
+   year={2025},
+   eprint={2508.08701},
+   archivePrefix={arXiv},
+   primaryClass={cs.CV},
+   url={https://arxiv.org/abs/2508.08701}, 
+}
+</code></pre>
+</div>
+</details>
 
 
 
