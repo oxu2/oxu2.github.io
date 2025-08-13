@@ -29,7 +29,21 @@ Ruiyu Mao, **Ouyang Xu**, Yunhui Guo
 [![arXiv](https://img.shields.io/badge/arXiv-2401.04923-b31b1b.svg)](https://arxiv.org/abs/2401.04923)
 [![GitHub stars](https://img.shields.io/github/stars/RuiyuM/Active-OpenSet-NEAT?style=social)](https://github.com/RuiyuM/Active-OpenSet-NEAT)
 
-[PDF](https://arxiv.org/abs/2401.04923) | [Code](https://github.com/RuiyuM/Active-OpenSet-NEAT)
+<details>
+  <summary>BibTeX</summary>
+  <pre><code>@misc{mao2024inconsistency,
+    title={Inconsistency-Based Data-Centric Active Open-Set Annotation},
+    author={Ruiyu Mao and Ouyang Xu and Yunhui Guo},
+    year={2024},
+    eprint={2401.04923},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG},
+    url={https://arxiv.org/abs/2401.04923},
+}
+</code></pre>
+</details>
+
+
 
 
 
@@ -40,7 +54,7 @@ Submitted to AAAI 2026
 [![arXiv](https://img.shields.io/badge/arXiv-2508.08701-b31b1b.svg)](https://arxiv.org/abs/2508.08701)
 [![GitHub stars](https://img.shields.io/github/stars/oxu2/SafeFix?style=social)](https://github.com/oxu2/SafeFix)
 
-[PDF](https://arxiv.org/abs/2508.08701) | [Code](https://github.com/oxu2/SafeFix)  
+
 
 
 
