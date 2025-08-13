@@ -25,11 +25,53 @@ Email: [firstname].[lastname] [AT] utdallas.edu
 **Inconsistency-Based Data-Centric Active Open-Set Annotation**  
 Ruiyu Mao, **Ouyang Xu**, Yunhui Guo  
 **AAAI 2024**  
-[PDF](https://arxiv.org/abs/2401.04923)
+
+[![arXiv](https://img.shields.io/badge/arXiv-2401.04923-b31b1b.svg)](https://arxiv.org/abs/2401.04923)
+[![GitHub stars](https://img.shields.io/github/stars/RuiyuM/Active-OpenSet-NEAT?style=social)](https://github.com/RuiyuM/Active-OpenSet-NEAT)
+
+[PDF](https://arxiv.org/abs/2401.04923) | [Code](https://github.com/RuiyuM/Active-OpenSet-NEAT)
+
+<details>
+<summary><strong>BibTeX</strong></summary>
+
+```bibtex
+@misc{mao2024inconsistency,
+      title={Inconsistency-Based Data-Centric Active Open-Set Annotation}, 
+      author={Ruiyu Mao and Ouyang Xu and Yunhui Guo},
+      year={2024},
+      eprint={2401.04923},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2401.04923}, 
+}
+```
+</details>
 
 **SafeFix: Targeted Model Repair via Controlled Image Generation (Under Review)**  
 **Ouyang Xu**, Baoming Zhang, Ruiyu Mao, Yunhui Guo  
-Submitted to NeurIPS 2025
+Submitted to AAAI 2026  
+
+[![arXiv](https://img.shields.io/badge/arXiv-2508.08701-b31b1b.svg)](https://arxiv.org/abs/2508.08701)
+[![GitHub stars](https://img.shields.io/github/stars/oxu2/SafeFix?style=social)](https://github.com/oxu2/SafeFix)
+
+[PDF](https://arxiv.org/abs/2508.08701) | [Code](https://github.com/oxu2/SafeFix)  
+
+<details>
+<summary><strong>BibTeX</strong></summary>
+
+```bibtex
+@misc{xu2025safefix,
+   title={SafeFix: Targeted Model Repair via Controlled Image Generation}, 
+   author={Ouyang Xu and Baoming Zhang and Ruiyu Mao and Yunhui Guo},
+   year={2025},
+   eprint={2508.08701},
+   archivePrefix={arXiv},
+   primaryClass={cs.CV},
+   url={https://arxiv.org/abs/2508.08701}, 
+}
+```
+</details>
+
 
 ## Personal
 In my spare time, I love powerlifting🏋️, bouldering🧗, and playing the guitar🎸. I am also quite skilled at board games such as Werewolves🐺.
