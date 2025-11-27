@@ -61,7 +61,7 @@ function copyToClipboard(id) {
 
 **SafeFix: Targeted Model Repair via Controlled Image Generation (Under Review)**  
 **Ouyang Xu**, Baoming Zhang, Ruiyu Mao, Yunhui Guo  
-Submitted to AAAI 2026  
+Submitted to CVPR 2026  
 
 [![arXiv](https://img.shields.io/badge/arXiv-2508.08701-b31b1b.svg)](https://arxiv.org/abs/2508.08701)
 [![GitHub stars](https://img.shields.io/github/stars/oxu2/SafeFix?style=social)](https://github.com/oxu2/SafeFix)
